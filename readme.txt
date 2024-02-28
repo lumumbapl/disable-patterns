@@ -13,7 +13,17 @@ Here is a short description of the plugin. This should be no more than 150 chara
 
 == Description ==
 
-This WordPress plugin automatically disables the 'Choose a Pattern' popup in the new editor when creating pages in the TT4 Theme.
+The Disable Pattern Popups plugin is designed to streamline your WordPress editing experience by automatically preventing the appearance of the 'Choose a Pattern' popup when creating new pages in the TT4 Theme. This plugin is particularly useful for users who find the pattern selection modal intrusive or unnecessary for their specific workflow.
+
+== Key Features ==
+
+- *Seamless Experience*: Say goodbye to interruptions caused by the 'Choose a Pattern' popup when creating pages in the TT4 Theme. This plugin ensures a smoother content creation process.
+
+- *Effortless Implementation*: The plugin seamlessly integrates with your WordPress environment, requiring no complex configurations. Once activated, it discreetly takes care of preventing the pattern popup on the relevant screens.
+
+== How It Works ==
+
+Upon activation, the plugin enqueues a JavaScript file that targets the 'Choose a Pattern' popup in the new WordPress editor. The script is strategically executed when creating new pages within the TT4 Theme. By simulating a click on the close button of the popup, the plugin ensures that the pattern selection step is automatically bypassed, allowing you to focus on your content without unnecessary distractions.
 
 == Frequently Asked Questions ==
 
